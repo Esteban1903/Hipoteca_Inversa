@@ -133,6 +133,10 @@ http://127.0.0.1:5000/update_user
 
 
 
-### Nombre Colaboradores:
+### Nombre Creadores:
 - Edison Ospina Arroyave.
 - Juan Manuel Garcia.
+## Nombre Colaboradores
+- Juan Felipe Ruiz
+- Esteban parra zapata
+-
